@@ -1,0 +1,644 @@
+					Player: asbcj
+					Date: Tue Dec  9 21:44:12 2025
+					Score: -3
+					------ QUESTIONS ------
+Q1: Which vitamin is essential for blood clotting?  
+tCorrect: VitaminK  
+Your Answer : VitaminK  
+
+Q2: What type of bond forms when electrons are shared?  
+tCorrect: Covalent  
+Your Answer : Metallic  
+
+Q3: What is the pH of pure water?  
+tCorrect: 7  
+Your Answer : 7  
+
+Q4: Which type of electromagnetic wave has the shortest wavelength?  
+tCorrect: GammaRay  
+Your Answer : GammaRay  
+
+Q5: Which organ produces insulin?  
+tCorrect: Pancreas  
+Your Answer : Pancreas  
+
+Q6: What is the SI unit of electric current?  
+tCorrect: Ampere  
+Your Answer : Ampere  
+
+Q7: What is the approximate mass of a proton?  
+tCorrect: 1.67x10^-27kg  
+Your Answer : 9.11x10^-31kg  
+
+Q8: What is the chemical formula of ozone?  
+tCorrect: O3  
+Your Answer : O3  
+
+Q9: Which particle has no electric charge?  
+tCorrect: Neutron  
+Your Answer : Electron  
+
+Q10: Which layer of Earth is liquid?  
+tCorrect: OuterCore  
+Your Answer : Mantle  
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 21:56:35 2025
+					Score: -44
+					------ QUESTIONS ------
+Q1: Which type of DNS record maps a domain name to an IP address?
+tCorrect: A
+Your Answer : MX
+
+Q2: Which TCP flag is used to terminate a connection?
+tCorrect: FIN
+Your Answer : ACK
+
+Q3: Which TCP/IP layer corresponds to the OSI Network layer?
+tCorrect: Internet
+Your Answer : Transport
+
+Q4: In blockchain, what does a “nonce” refer to?
+tCorrect: A random number used once in mining
+Your Answer : A digital signature
+
+Q5: Which type of cloud service provides hardware resources without managing OS or software?
+tCorrect: IaaS
+Your Answer : PaaS
+
+Q6: In compiler design, what is “lexical analysis” responsible for?
+tCorrect: Tokenizing source code
+Your Answer : Optimizing instructions
+
+Q7: Which of the following attacks manipulates SQL queries to access hidden data?
+tCorrect: SQL Injection
+Your Answer : SQL Injection
+
+Q8: Which RAID level provides both striping and mirroring?
+tCorrect: RAID 10
+Your Answer : RAID 1
+
+Q9: Which scheduling algorithm can guarantee minimum average waiting time under all conditions?
+tCorrect: Shortest Remaining Time
+Your Answer : First-Come First-Served
+
+Q10: Which CPU scheduling algorithm may cause starvation?
+tCorrect: Priority Scheduling
+Your Answer : First-Come First-Served
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 21:57:35 2025
+					Score: -32
+					------ QUESTIONS ------
+Q1: Which scheduling algorithm can guarantee minimum average waiting time under all conditions?
+tCorrect: Shortest Remaining Time
+Your Answer : First-Come First-Served
+
+Q2: Which of these is a characteristic of a hypervisor type 1?
+tCorrect: Runs directly on hardware
+Your Answer : Runs on top of OS
+
+Q3: Which Linux file contains user account information?
+tCorrect: /etc/passwd
+Your Answer : /etc/shadow
+
+Q4: Which TCP/IP layer corresponds to the OSI Network layer?
+tCorrect: Internet
+Your Answer : Internet
+
+Q5: Which CPU scheduling algorithm may cause starvation?
+tCorrect: Priority Scheduling
+Your Answer : Shortest Job Next
+
+Q6: Which RAID level provides both striping and mirroring?
+tCorrect: RAID 10
+Your Answer : RAID 1
+
+Q7: Which Linux command shows hidden files in a directory?
+tCorrect: ls -a
+Your Answer : ls -a
+
+Q8: Which type of DNS record maps a domain name to an IP address?
+tCorrect: A
+Your Answer : A
+
+Q9: Which TCP flag is used to terminate a connection?
+tCorrect: FIN
+Your Answer : ACK
+
+Q10: In compiler design, what is “lexical analysis” responsible for?
+tCorrect: Tokenizing source code
+Your Answer : Optimizing instructions
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 22:15:43 2025
+					Score: -20
+					------ QUESTIONS ------
+Q1: Which principle states that energy levels are quantized?  
+tCorrect: BohrModel  
+Your Answer : 					Skipped/Timeout
+
+Q2: Which element has the highest electronegativity?  
+tCorrect: Fluorine  
+Your Answer : Fluorine  
+
+Q3: Which type of RNA carries amino acids?  
+tCorrect: tRNA  
+Your Answer : mRNA  
+
+Q4: Which phenomenon explains bending of light in water?  
+tCorrect: Refraction  
+Your Answer : Refraction  
+
+Q5: Which metal is liquid at room temperature besides mercury?  
+tCorrect: Gallium  
+Your Answer : Francium  
+
+Q6: Which type of RNA splices introns out of mRNA?  
+tCorrect: snRNA  
+Your Answer : rRNA  
+
+Q7: What is the unit of magnetic flux?  
+tCorrect: Weber  
+Your Answer : Weber  
+
+Q8: Which hormone regulates calcium levels in blood?  
+tCorrect: Calcitonin  
+Your Answer : Adrenaline  
+
+Q9: Which enzyme unwinds DNA during replication?  
+tCorrect: Helicase  
+Your Answer : Helicase  
+
+Q10: Which organelle is responsible for detoxification in liver cells?  
+tCorrect: Peroxisome  
+Your Answer : Peroxisome  
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 22:17:52 2025
+					Score: -26
+					------ QUESTIONS ------
+Q1: Which principle states that energy levels are quantized?  
+tCorrect: BohrModel  
+Your Answer : HeisenbergUncertainty  
+
+Q2: Which particle is its own antiparticle?  
+tCorrect: Photon  
+Your Answer : Neutron  
+
+Q3: Which hormone regulates calcium levels in blood?  
+tCorrect: Calcitonin  
+Your Answer : Calcitonin  
+
+Q4: Which element has the highest electronegativity?  
+tCorrect: Fluorine  
+Your Answer : Chlorine  
+
+Q5: Which quantum number determines orbital shape?  
+tCorrect: AzimuthalQuantumNumber  
+Your Answer : AzimuthalQuantumNumber  
+
+Q6: Which planet has the strongest magnetic field?  
+tCorrect: Jupiter  
+Your Answer : Neptune  
+
+Q7: Which organelle is responsible for detoxification in liver cells?  
+tCorrect: Peroxisome  
+Your Answer : Peroxisome  
+
+Q8: Which type of RNA carries amino acids?  
+tCorrect: tRNA  
+Your Answer : rRNA  
+
+Q9: Which particle mediates the strong nuclear force?  
+tCorrect: Gluon  
+Your Answer : Gluon  
+
+Q10: Which biomolecule has the most energy per gram?  
+tCorrect: Fat  
+Your Answer : 	Skipped/Timeout
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 22:24:57 2025
+					Score: -6
+					------ QUESTIONS ------
+Q1: Which particle has no electric charge?  
+tCorrect: Neutron  
+Your Answer : Neutron  
+
+Q2: Which element is most abundant in Earth's crust?  
+tCorrect: Oxygen  
+Your Answer : Silicon  
+
+Q3: Which organ produces insulin?  
+tCorrect: Pancreas  
+Your Answer : Pancreas  
+
+Q4: Which layer of Earth is liquid?  
+tCorrect: OuterCore  
+Your Answer : OuterCore  
+
+Q5: Which vitamin is essential for blood clotting?  
+tCorrect: VitaminK  
+Your Answer : VitaminA  
+
+Q6: What is the chemical formula of ozone?  
+tCorrect: O3  
+Your Answer : O3  
+
+Q7: What is the pH of pure water?  
+tCorrect: 7  
+Your Answer : 8  
+
+Q8: What is the SI unit of electric current?  
+tCorrect: Ampere  
+Your Answer : Ampere  
+
+Q9: What is the primary metal in bauxite ore?  
+tCorrect: Aluminum  
+Your Answer : Zinc  
+
+Q10: Which planet has the fastest rotation?  
+tCorrect: Jupiter  
+Your Answer : Jupiter  
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 22:25:40 2025
+					Score: 1
+					------ QUESTIONS ------
+Q1: Which layer of Earth is liquid?  
+tCorrect: OuterCore  
+Your Answer : OuterCore  
+
+Q2: Which particle has no electric charge?  
+tCorrect: Neutron  
+Your Answer : Neutron  
+
+Q3: What type of bond forms when electrons are shared?  
+tCorrect: Covalent  
+Your Answer : Covalent  
+
+Q4: Which gas is most abundant in Earth's atmosphere?  
+tCorrect: Nitrogen  
+Your Answer : Nitrogen  
+
+Q5: Which element is most abundant in Earth's crust?  
+tCorrect: Oxygen  
+Your Answer : Silicon  
+
+Q6: Which acid is used in car batteries?  
+tCorrect: SulfuricAcid  
+Your Answer : HydrochloricAcid  
+
+Q7: What is the SI unit of electric current?  
+tCorrect: Ampere  
+Your Answer : Ampere  
+
+Q8: Which planet has the fastest rotation?  
+tCorrect: Jupiter  
+Your Answer : Mercury  
+
+Q9: Which organ produces insulin?  
+tCorrect: Pancreas  
+Your Answer : Pancreas  
+
+Q10: Which gas causes acid rain?  
+tCorrect: SulfurDioxide  
+Your Answer : SulfurDioxide  
+
+					===================================
+
+					Player: wwebxdjh
+					Date: Tue Dec  9 22:26:30 2025
+					Score: -50
+					------ QUESTIONS ------
+Q1: Which type of RNA splices introns out of mRNA?  
+tCorrect: snRNA  
+Your Answer : mRNA  
+
+Q2: Which particle is its own antiparticle?  
+tCorrect: Photon  
+Your Answer : Proton  
+
+Q3: Which type of RNA carries amino acids?  
+tCorrect: tRNA  
+Your Answer : mRNA  
+
+Q4: Which particle mediates the strong nuclear force?  
+tCorrect: Gluon  
+Your Answer : Photon  
+
+Q5: Which organelle is responsible for detoxification in liver cells?  
+tCorrect: Peroxisome  
+Your Answer : Mitochondria  
+
+Q6: Which enzyme unwinds DNA during replication?  
+tCorrect: Helicase  
+Your Answer : Ligase  
+
+Q7: Which hormone regulates calcium levels in blood?  
+tCorrect: Calcitonin  
+Your Answer : Insulin  
+
+Q8: Which planet has the strongest magnetic field?  
+tCorrect: Jupiter  
+Your Answer : Earth  
+
+Q9: What is the dominant isotope of uranium used in nuclear reactors?  
+tCorrect: Uranium-235  
+Your Answer : Uranium-234  
+
+Q10: Which metal is liquid at room temperature besides mercury?  
+tCorrect: Gallium  
+Your Answer : Cesium  
+
+					===================================
+
+					Player: Muhammad
+					Date: Tue Dec  9 22:29:01 2025
+					Score: -14
+					------ QUESTIONS ------
+Q1: What is the default file extension for Excel 2010 files?
+tCorrect: .xlsx
+Your Answer : .xlsx
+
+Q2: Which technology is used in touch screens?
+tCorrect: Both A and B
+Your Answer : Resistive
+
+Q3: Which of these is NOT a programming language?
+tCorrect: HTML
+Your Answer : Python
+
+Q4: Which unit is used to measure the speed of a processor?
+tCorrect: Hertz
+Your Answer : Gigabyte
+
+Q5: Which layer of computer network is responsible for IP addressing?
+tCorrect: Network
+Your Answer : Physical
+
+Q6: Which key combination is used to lock a Windows computer quickly?
+tCorrect: Windows+L
+Your Answer : Alt+F4
+
+Q7: Which of these devices is used for optical storage?
+tCorrect: CD-ROM
+Your Answer : SSD
+
+Q8: Which port is commonly used for connecting external hard drives?
+tCorrect: USB
+Your Answer : HDMI
+
+Q9: Which of these is used to test electrical circuits in a PC?
+tCorrect: Multimeter
+Your Answer : Multimeter
+
+Q10: Which key is used to access the BIOS during startup on most PCs?
+tCorrect: F2
+Your Answer : F5
+
+					===================================
+
+					Player: fdvvf
+					Date: Tue Dec  9 22:30:19 2025
+					Score: -14
+					------ QUESTIONS ------
+Q1: Which acid is found in the human stomach?  
+tCorrect: HydrochloricAcid  
+Your Answer : SulfuricAcid  
+
+Q2: What is the chemical formula of table salt?  
+tCorrect: NaCl  
+Your Answer : NaCl  
+
+Q3: Which element is liquid at room temperature?  
+tCorrect: Bromine  
+Your Answer : Gold  
+
+Q4: Which part of the eye controls the amount of light entering?  
+tCorrect: Iris  
+Your Answer : Cornea  
+
+Q5: Which planet has the most moons?  
+tCorrect: Saturn  
+Your Answer : Earth  
+
+Q6: Which vitamin is produced when sunlight hits the skin?  
+tCorrect: VitaminD  
+Your Answer : VitaminC  
+
+Q7: What is the hardest natural substance on Earth?  
+tCorrect: Diamond  
+Your Answer : Diamond  
+
+Q8: Which force keeps planets in orbit around the sun?  
+tCorrect: Gravity  
+Your Answer : Magnetism  
+
+Q9: Which gas do plants absorb for photosynthesis?  
+tCorrect: CarbonDioxide  
+Your Answer : Oxygen  
+
+Q10: Which organ filters blood in the human body?  
+tCorrect: Kidney  
+Your Answer : Heart  
+
+					===================================
+
+					Player: Muhammad Uzair
+					Date: Tue Dec  9 22:37:41 2025
+					Score: -14
+					------ QUESTIONS ------
+Q1: Which vitamin is essential for blood clotting?  
+tCorrect: VitaminK  
+Your Answer : VitaminC  
+
+Q2: Which layer of Earth is liquid?  
+tCorrect: OuterCore  
+Your Answer : OuterCore  
+
+Q3: Which organelle is responsible for protein synthesis?  
+tCorrect: Ribosome  
+Your Answer : Nucleus  
+
+Q4: Which process produces ATP in the mitochondria?  
+tCorrect: CellularRespiration  
+Your Answer : CellularRespiration  
+
+Q5: What is the primary metal in bauxite ore?  
+tCorrect: Aluminum  
+Your Answer : Iron  
+
+Q6: Which type of electromagnetic wave has the shortest wavelength?  
+tCorrect: GammaRay  
+Your Answer : RadioWave  
+
+Q7: Which acid is used in car batteries?  
+tCorrect: SulfuricAcid  
+Your Answer : HydrochloricAcid  
+
+Q8: What is the SI unit of electric current?  
+tCorrect: Ampere  
+Your Answer : Ohm  
+
+Q9: What is the pH of pure water?  
+tCorrect: 7  
+Your Answer : 7  
+
+Q10: Which organ removes worn-out red blood cells?  
+tCorrect: Spleen  
+Your Answer : Spleen  
+
+					===================================
+
+					Player: ssds
+					Date: Tue Dec  9 23:24:50 2025
+					Score: 10
+					------ QUESTIONS ------
+Q1: What is the hardest natural substance on Earth?  
+tCorrect: Diamond  
+Your Answer : Diamond  
+
+Q2: Which acid is found in the human stomach?  
+tCorrect: HydrochloricAcid  
+Your Answer : HydrochloricAcid  
+
+Q3: What is the boiling point of water at sea level?  
+tCorrect: 100°C  
+Your Answer : 100°C  
+
+Q4: What is the main gas in the atmosphere of Venus?  
+tCorrect: CarbonDioxide  
+Your Answer : Nitrogen  
+
+Q5: What is the speed of light approximately?  
+tCorrect: 3x10^8m/s  
+Your Answer : 3x10^8m/s  
+
+Q6: Which force keeps planets in orbit around the sun?  
+tCorrect: Gravity  
+Your Answer : Gravity  
+
+Q7: What is the chemical symbol for Mercury?  
+tCorrect: Hg  
+Your Answer : Hg  
+
+Q8: Which gas is used in balloons to make them float?  
+tCorrect: Helium  
+Your Answer : Helium  
+
+Q9: Which part of the eye controls the amount of light entering?  
+tCorrect: Iris  
+Your Answer : Retina  
+
+Q10: What is the chemical formula of table salt?  
+tCorrect: NaCl  
+Your Answer : NaCl  
+
+					===================================
+
+					Player: sdsdsds
+					Date: Tue Dec  9 23:26:50 2025
+					Score: -26
+					------ QUESTIONS ------
+Q1: Which element has the highest electronegativity?  
+tCorrect: Fluorine  
+Your Answer : Fluorine  
+
+Q2: Which quantum number determines orbital shape?  
+tCorrect: AzimuthalQuantumNumber  
+Your Answer : MagneticQuantumNumber  
+
+Q3: Which planet has the strongest magnetic field?  
+tCorrect: Jupiter  
+Your Answer : Earth  
+
+Q4: Which particle is its own antiparticle?  
+tCorrect: Photon  
+Your Answer : Electron  
+
+Q5: Which enzyme unwinds DNA during replication?  
+tCorrect: Helicase  
+Your Answer : Polymerase  
+
+Q6: Which organelle is responsible for detoxification in liver cells?  
+tCorrect: Peroxisome  
+Your Answer : Mitochondria  
+
+Q7: What is the dominant isotope of uranium used in nuclear reactors?  
+tCorrect: Uranium-235  
+Your Answer : Uranium-235  
+
+Q8: Which principle states that energy levels are quantized?  
+tCorrect: BohrModel  
+Your Answer : BohrModel  
+
+Q9: Which phenomenon explains bending of light in water?  
+tCorrect: Refraction  
+Your Answer : Dispersion  
+
+Q10: What is the unit of magnetic flux?  
+tCorrect: Weber  
+Your Answer : Weber  
+
+					===================================
+
+					Player: assa
+					Date: Tue Dec  9 23:29:29 2025
+					Score: -7
+					------ QUESTIONS ------
+Q1: Who drafted Pakistan’s first constitution in 1956?  
+tCorrect: Muhammad Ali Bogra  
+Your Answer : Abdul Hamid  
+
+Q2: What was the main objective of the Simla Agreement 1972?  
+tCorrect: Establish peace between Pakistan and India after 1971 war  
+Your Answer : Formulate Pakistan’s new constitution  
+
+Q3: Which movement demanded restoration of democracy in Pakistan in the 1980s?  
+tCorrect: MRD (Movement for the Restoration of Democracy)  
+Your Answer : MRD (Movement for the Restoration of Democracy)  
+
+Q4: 
+tCorrect: 
+Your Answer : 
+
+Q5: Which constitutional amendment was passed during Ayub Khan’s regime in 1962?  
+tCorrect: Basic Democracy System  
+Your Answer : Basic Democracy System  
+
+Q6: Which event triggered the imposition of martial law in Pakistan in 1958?  
+tCorrect: War with India  
+Your Answer : Military coup by Ayub Khan  
+
+Q7: Which city became the center of Pakistan’s national movement before Lahore?  
+tCorrect: Delhi  
+Your Answer : Delhi  
+
+Q8: Which international organization mediated between Pakistan and India after the 1971 war?  
+tCorrect: United Nations  
+Your Answer : SCO  
+
+Q9: Which city was the temporary capital of Pakistan before Islamabad?  
+tCorrect: Karachi  
+Your Answer : Karachi  
+
+Q10: What was the main purpose of the Pakistan Resolution of 1940?  
+tCorrect: To demand an independent Muslim state  
+Your Answer : To demand an independent Muslim state  
+
+					===================================
+

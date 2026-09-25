@@ -1,0 +1,420 @@
+Which country won the first FIFA World Cup?  
+Brazil  
+Uruguay  
+Germany  
+Italy  
+2  
+1
+How many players are on a basketball court per team?  
+5  
+6  
+7  
+4  
+1  
+1
+In which sport is the term ‘love’ used for score?  
+Cricket  
+Tennis  
+Badminton  
+Table Tennis  
+2  
+1
+Which athlete is known as the Fastest Man Alive?  
+Usain Bolt  
+Carl Lewis  
+Tyson Gay  
+Yohan Blake  
+1  
+1
+How many minutes is a standard rugby union game?  
+80  
+70  
+90  
+60  
+1  
+1
+Which country invented table tennis?  
+China  
+England  
+Germany  
+USA  
+2  
+1
+What is the maximum score in a single frame of bowling?  
+300  
+200  
+250  
+150  
+1  
+1
+Which sport uses a puck?  
+Hockey  
+Football  
+Cricket  
+Basketball  
+1  
+1
+In which country were the first modern Olympics held?  
+Greece  
+France  
+UK  
+Italy  
+1  
+1
+What is the term for a successful basketball shot from beyond the arc?  
+Two Pointer  
+Three Pointer  
+Free Throw  
+Dunk  
+2  
+1
+Which country hosted the 2018 FIFA World Cup?  
+Russia  
+Brazil  
+Germany  
+Spain  
+1  
+1
+Which sport is most associated with the Wimbledon Tournament?  
+Tennis  
+Badminton  
+Golf  
+Cricket  
+1  
+1
+Which sport uses a javelin?  
+Discus  
+Shot Put  
+Javelin Throw  
+Hammer Throw  
+3  
+1
+What is the main goal in skateboarding competition?  
+Time  
+Tricks  
+Distance  
+Points  
+2  
+1
+Which country has won the most Olympic Gold Medals in Basketball?  
+USA  
+Spain  
+Russia  
+Australia  
+1  
+1
+How long is a standard marathon race in kilometers?  
+42.195  
+40  
+50  
+45  
+1  
+1
+Which term describes the action of passing the ball backwards in Rugby?  
+Forward Pass  
+Lateral Pass  
+Drop Kick  
+Scrum  
+2  
+1
+Which country won the first Cricket World Cup?  
+Australia  
+West Indies  
+England  
+India  
+2  
+1
+In which sport is the term ‘alley-oop’ used?  
+Basketball  
+Tennis  
+Football  
+Volleyball  
+1  
+1
+Which athlete has won the most Tour de France titles?  
+Lance Armstrong  
+Miguel Indurain  
+Eddy Merckx  
+Bernard Hinault  
+3  
+1
+Which country won the first Rugby World Cup in 1987?  
+Australia  
+New Zealand  
+South Africa  
+England  
+2  
+2
+In fencing, what is the valid target area in foil?  
+Arms and torso  
+Torso only  
+Entire body  
+Legs and torso  
+2  
+2
+What is the standard weight of a men's shot put?  
+5 kg  
+7.26 kg  
+6.5 kg  
+8 kg  
+2  
+2
+Which country is credited with inventing modern ice hockey?  
+Russia  
+Canada  
+Sweden  
+USA  
+2  
+2
+In swimming, what does IM stand for?  
+Intermediate Motion  
+Individual Medley  
+Internal Move  
+International Medal  
+2  
+2
+How many holes are on a standard golf course?  
+12  
+18  
+9  
+15  
+2  
+2
+Which term describes a score of one under par in golf?  
+Par  
+Bogey  
+Birdie  
+Eagle  
+3  
+2
+Which country won the first FIFA Women's World Cup in 1991?  
+Norway  
+USA  
+China  
+Germany  
+2  
+2
+In track cycling, what is a 'keirin'?  
+Sprint elimination  
+Team pursuit  
+Motor-paced race  
+Time trial  
+3  
+2
+Which sport uses a ‘sabre’ as equipment?  
+Fencing  
+Kendo  
+Archery  
+Taekwondo  
+1  
+2
+Which is the only Grand Slam tennis tournament played on clay?  
+US Open  
+Australian Open  
+Wimbledon  
+French Open  
+4  
+2
+Which football club is nicknamed ‘The Red Devils’?  
+Liverpool  
+Chelsea  
+Manchester United  
+Arsenal  
+3  
+2
+In rowing, what is the seat closest to the bow called?  
+Bow seat  
+Coxswain seat  
+Stroke seat  
+Middle seat  
+1  
+2
+Which country has won the most Olympic gold medals in field hockey?  
+Netherlands  
+Germany  
+Australia  
+India  
+4  
+2
+What is the maximum time allowed for a chess game in classical tournaments?  
+5 hours  
+4 hours  
+3 hours  
+2 hours  
+1  
+2
+Which sport uses the term ‘knuckleball’?  
+Baseball  
+Tennis  
+Cricket  
+Football  
+1  
+2
+Which country hosts the Tour of Flanders cycling race?  
+France  
+Italy  
+Belgium  
+Netherlands  
+3  
+2
+In badminton, what is a ‘smash’?  
+Defensive shot  
+Powerful downward shot  
+Serve  
+Net drop shot  
+2  
+2
+In cricket, what is the ‘googly’?  
+Type of spin delivery  
+Reverse swing  
+Fast bouncer  
+Yorker  
+1  
+2
+Which stadium is nicknamed ‘The House of Football’?  
+Camp Nou  
+Maracanã  
+San Siro  
+Wembley  
+2  
+2
+Which athlete set the record for the fastest 100m swim in short course meters?  
+Caeleb Dressel  
+Michael Phelps  
+Ryan Lochte  
+Ian Thorpe  
+1  
+3
+In archery, what is the maximum distance for Olympic recurve events?  
+50 meters  
+70 meters  
+60 meters  
+90 meters  
+2  
+3
+Which country has the most Rugby Sevens World Series titles?  
+New Zealand  
+South Africa  
+Fiji  
+England  
+3  
+3
+In gymnastics, what is the 'Yurchenko' technique associated with?  
+Vault  
+Floor exercise  
+Balance beam  
+Pommel horse  
+1  
+3
+Which year did the first modern Olympic triathlon take place?  
+1996  
+2000  
+2004  
+2008  
+2  
+3
+In motorsport, what does DRS stand for in Formula 1?  
+Drag Reduction System  
+Dynamic Racing Strategy  
+Downforce Regulation System  
+Distance Response System  
+1  
+3
+Which team won the inaugural Indian Premier League (IPL) in 2008?  
+Mumbai Indians  
+Chennai Super Kings  
+Kolkata Knight Riders  
+Royal Challengers Bangalore  
+2  
+3
+In fencing, what is the maximum score in a standard bout?  
+10  
+15  
+20  
+12  
+2  
+3
+Which country hosted the 1998 FIFA World Cup?  
+France  
+Brazil  
+Germany  
+USA  
+1  
+3
+In sailing, what does 'tacking' mean?  
+Turning the bow through the wind  
+Changing sails  
+Dropping anchor  
+Rounding a buoy  
+1  
+3
+Which athlete won the decathlon gold medal at the 2012 Olympics?  
+Ashton Eaton  
+Bryan Clay  
+Roman Šebrle  
+Damian Warner  
+1  
+3
+In weightlifting, what is the heaviest single lift officially recorded?  
+263 kg  
+263.5 kg  
+266 kg  
+270 kg  
+2  
+3
+Which country is the birthplace of modern judo?  
+China  
+Japan  
+Korea  
+Brazil  
+2  
+3
+In cycling, what is the 'La Flèche Wallonne' race famous for?  
+Steep climbs  
+Time trials  
+Flat sprints  
+Mountain descents  
+1  
+3
+In cricket, which bowler is credited with inventing the 'doosra'?  
+Muttiah Muralitharan  
+Shane Warne  
+Anil Kumble  
+Saqlain Mushtaq  
+4  
+3
+Which Olympic event combines cross-country skiing and rifle shooting?  
+Biathlon  
+Nordic Combined  
+Skiathlon  
+Pentathlon  
+1  
+3
+In American football, what is the primary role of a 'long snapper'?  
+Kicking field goals  
+Throwing passes  
+Snapping the ball for punts and field goals  
+Blocking defensive linemen  
+3  
+3
+Which is the only country to have won both men’s and women’s hockey World Cups in the same year?  
+Netherlands  
+Australia  
+Germany  
+Argentina  
+1  
+3
+In motorsports, what is the 'halo' device in Formula 1?  
+Protective cockpit ring  
+Aerodynamic wing  
+Engine cooling system  
+Fuel cell safety device  
+1  
+3
+Which team holds the record for most NBA championships?  
+Boston Celtics  
+Chicago Bulls  
+Los Angeles Lakers  
+Golden State Warriors  
+1  
+3
